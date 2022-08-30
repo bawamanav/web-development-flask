@@ -41,3 +41,9 @@ References
 http://flask.pocoo.org/
 
 https://www.tutorialspoint.com/flask/
+
+Running the app.
+Python main.py
+Viewing the app
+Go to http://127.0.0.1:5000
+
