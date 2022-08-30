@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding:0;
+    border:0;
+   
+    
+}
+
+.ban{
+    background-image:url(./builtin/2.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+
+}
